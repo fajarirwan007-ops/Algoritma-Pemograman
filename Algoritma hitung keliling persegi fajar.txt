@@ -1,0 +1,25 @@
+Algoritma hitung keliling persegi beserta pseudocodenya
+Algoritma:
+
+1.mulai
+2.input:masukan nilai Panjang sisi persegi (sisinya 4)
+3.proses: hitung keliling persegi dengan rumus keliling = 30
+4.tampilkan hasil keliling yaitu 30
+5.selesai
+
+Pseudocode:
+Progrm hitung keliling persegi
+
+Deklarasi:
+    sisi, k : INTEGER
+Algoritma:
+{ menentukan sisi persegi }
+sisi <- 4
+
+{ menghitung keliling persegi }
+k <-4 * sisi
+
+{ menampilkan hasil perhitungan }
+WRITE "maka hasil dari 4 x", sisi, "=",120
+
+Selesai

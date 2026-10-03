@@ -1,0 +1,20 @@
+Tugas Algoritma pertemuan ke 4
+1.Mulai
+2.Masukin total belanja
+3.Masukin status member
+4.Jika total belanja di atas 50rb dan status member “member” makan diskon 10%
+5.Tampilkan total belanja dikuraingi potongan harga diskon
+6.Selesai
+
+Pseudocode
+Mulai
+
+Input nilai total_belanja
+Input member
+
+Jika total_belanja >= 50000 DAN member = “ya” maka
+	Tampilkan “Diskon 10%”
+Jika tidak
+	Tampilkan “Tidak diskon”
+
+Selesai

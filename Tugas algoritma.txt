@@ -12,7 +12,7 @@ Mulai
 Input nilai total_belanja
 Input member
 
-Jika total_belanja >= 50000 DAN member = “ya” maka
+Jika total_belanja >= 500000 DAN member = “ya” maka
 	Tampilkan “Diskon 10%”
 Jika tidak
 	Tampilkan “Tidak diskon”

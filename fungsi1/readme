@@ -1,1 +1,27 @@
+fungsi / function:
+sekumpulan blok kode yang ada di dalam program yang nantinya bisa di panggil beberapa kali
 
+Keuntungan menggunakan function / fungsi:
+1. Mengurangi kode yang berulang
+2. Program lebih terstruktur
+3. Kode lebih mudah dibaca
+4. Kode lebih mudah diperbaiki
+5. Function dapat digunakan berkali-kali
+6. Program besar dapat dibagi menjadi beberapa bagian kecil
+
+struktur dari fungsi?
+def: keyword untuk membuat function
+fungsi1: nama function
+(): tempat parameter
+: awal blok kode
+parameter : digunakan untuk mengirim data kedalam function
+apa itu return? digunakan untuk mengembalikan hasil dari function
+Tugas:
+buat 1.py function1
+buat 2.py function tanpa parameter
+buat 3.py Function dengan parameter
+buat 4.py Function dapat memiliki beberapa parameter
+buat 5.py function tambah
+buat 6.py function kali
+buat 7.py function kurang
+buat 8.py function bagi
